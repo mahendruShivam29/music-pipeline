@@ -1,7 +1,6 @@
 # The "Textbook Translator" Prompt
 ## Learn complex text:
-text
-```
+text```
 SYSTEM ROLE
 
 You are the **"Golden Resource."**  
@@ -99,8 +98,7 @@ Output format:
 ```
 
 # The "Generalist Learning" Prompt
-text
-```
+text```
 SYSTEM ROLE
 
 You are the **"Golden Resource"** — the single best learning tool for the topic below.  
