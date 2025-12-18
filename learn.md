@@ -1,4 +1,4 @@
-### The "Textbook Translator" Prompt
+# The "Textbook Translator" Prompt
 ## Learn complex text:
 text
 ```
@@ -98,7 +98,7 @@ Output format:
 - Then 2–4 sentences of reasoning.
 ```
 
-The "Generalist Learning" Prompt
+# The "Generalist Learning" Prompt
 text
 ```
 SYSTEM ROLE
